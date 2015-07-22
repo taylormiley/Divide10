@@ -1,0 +1,23 @@
+body {
+	vertical-align: center;
+	text-align: center;
+	margin-top: 12em;
+	font-family: arial;
+}
+
+label {
+	font-size: 79px;
+	margin-bottom: 20px;
+	color: red;
+
+}
+
+.winn {
+	font-size: 50px;
+	color: green;
+}
+
+footer {
+	margin-top: 20em;
+	font-size: 12px;
+}
